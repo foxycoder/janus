@@ -1,0 +1,18 @@
+[submodule "golden-ratio"]
+	path = golden-ratio
+	url = https://github.com/roman/golden-ratio
+[submodule "vim-surround"]
+	path = vim-surround
+	url = git://github.com/tpope/vim-surround.git
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "vim-ruby"]
+	path = vim-ruby
+	url = git://github.com/vim-ruby/vim-ruby.git
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "vim-rails"]
+	path = vim-rails
+	url = git://github.com/tpope/vim-rails.git
